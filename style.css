@@ -12,7 +12,7 @@
         to bottom,
         rgba(0,0,0, 0),
         rgba(0,0,0, 100)
-      ),url(/image/donation9.jpg);
+      ),url("/image/donation9.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;   
